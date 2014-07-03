@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+#Matplotlib libraries left out for demonstration purposes
 import json
 import httplib
 import urllib

@@ -1,0 +1,1 @@
+This is a simple enumeration tool for Oanda's API data.  The python app will run the .sh titled "eurusd_1m.sh", which will download the necessary live data.  After the data is collected, the program creates a list of all possible data points.  These lists are then used to calculate data via matplotlib in the python source code.
